@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="recipes_error_message">There was an error while trying to load recipes. Please, try again later.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_steps">Steps</string>
+    <string name="title_ingredients">Ingredients</string>
+    <string name="previous_step">Previous</string>
+    <string name="next_step">Next</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="lbl_detail_activity">Recipe Detail</string>
+    <string name="lbl_step_detail_activity">Step Details</string>
+    <string name="empty_view_text">No Items</string>
+</resources>
